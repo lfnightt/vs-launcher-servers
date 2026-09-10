@@ -1,0 +1,449 @@
+{
+  "enabled": true,
+  "servers": [
+    {
+      "code": "62.3.14.251:30120",
+      "name": "Sunset RP",
+      "boost": 51,
+      "info": {
+        "id": "sunset",
+        "hostname": "^0[^2I^0RA^1N^0] ^3Sunset RP ^0",
+        "gametype": "Role Play",
+        "clients": 762,
+        "svMaxclients": 2048,
+        "server": "VMPServer-master SERVER v1.0.0.100335 win32",
+        "connectEndPoints": ["62.3.14.251:30120"],
+        "vars": {
+          "sv_projectName": "^3Sunset RP",
+          "sv_projectDesc": "Red Economy",
+          "tags": "sunset, suncollective, sun-collective, roleplay, persian, iran",
+          "Discord": "discord.gg/sunco"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "195.18.10.243:30120",
+      "name": "Salvatores RolePlay",
+      "boost": 33,
+      "info": {
+        "id": "f6hw8r",
+        "hostname": "^0[^2I^0R^0A^1N^0] Salvatores RolePlay (New AntiCheat)",
+        "gametype": "Role Play",
+        "clients": 182,
+        "svMaxclients": 1000,
+        "server": "VMPServer-master SERVER v1.0.0.100201 win32",
+        "connectEndPoints": ["195.18.10.243:30120"],
+        "vars": {
+          "sv_projectName": "Salvatores(بازی کن و درآمد داشته باش)",
+          "sv_projectDesc": "Real Economy | New AntiCheat",
+          "tags": "salvatores,anti-iranize,heavy roleplay,realistic,iran",
+          "Discord": "https://discord.gg/kSjvDG3FdA"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "185.26.33.243:30120",
+      "name": "XCno Freeroam",
+      "boost": 30,
+      "info": {
+        "id": "7v0hgx",
+        "hostname": "^6XCno Freeroam",
+        "gametype": "freeroam",
+        "clients": 44,
+        "svMaxclients": 1000,
+        "server": "VMPServer-master SERVER v1.0.0.100305 win32",
+        "connectEndPoints": ["185.26.33.243:30120"],
+        "vars": {
+          "sv_projectName": "^6XCno Freeroam",
+          "sv_projectDesc": "new xcity > not roleplay > chill drive race fight pvp",
+          "tags": "xcno, xcity, gta, freeroam, pvp, multigame"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "5.57.39.38:30120",
+      "name": "Light City",
+      "boost": 10,
+      "info": {
+        "id": "8x6dqn",
+        "hostname": "^2Light ^2City",
+        "gametype": "",
+        "clients": 139,
+        "svMaxclients": 200,
+        "server": "VMPServer-master SERVER v1.0.0.100201 win32",
+        "connectEndPoints": ["5.57.39.38:30120"],
+        "vars": {
+          "sv_projectName": "^2Light ^2City",
+          "sv_projectDesc": "Iran Economy",
+          "tags": "Light,RolePlay,Irani"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "62.3.14.102:30120",
+      "name": "RedLine RP",
+      "boost": 10,
+      "info": {
+        "id": "redlinerp",
+        "hostname": "^1 RedLine RP ^7| ^5 Free Gang = +5 ^7| ^5 3/500/00$ Starter",
+        "gametype": "Roleplay",
+        "clients": 88,
+        "svMaxclients": 350,
+        "server": "VMPServer-master SERVER v1.0.0.100201 win32",
+        "connectEndPoints": ["62.3.14.102:30120"],
+        "vars": {
+          "sv_projectName": "^1 RedLine RP",
+          "sv_projectDesc": "آپدیت های جدید و متونع شده، جوین بدید و لذت ببرید",
+          "tags": "roleplay,rp,jobs,iran,redline,gang,drug",
+          "Discord": "https://discord.gg/ykK9J3d3xs"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "5.57.35.154:30120",
+      "name": "Star City",
+      "boost": 0,
+      "info": {
+        "id": "fyhfbe",
+        "hostname": "Star City",
+        "gametype": "ESX Legacy",
+        "clients": 4,
+        "svMaxclients": 180,
+        "server": "VMPServer-master SERVER v1.0.0.100335 win32",
+        "connectEndPoints": ["5.57.35.154:30120"],
+        "vars": {
+          "sv_projectName": "Star City",
+          "tags": "default, esx, esx legacy, official, roleplay"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    },
+    {
+      "code": "81.12.50.33:30120",
+      "name": "GoldLife S1",
+      "boost": 3,
+      "info": {
+        "id": "kdia7l",
+        "hostname": "GoldLife S1 | FREE GANG +3 | INVITE FRIENDS GET 3.000.000M DOLLARS | BEST SERVER IN IRAN",
+        "gametype": "RolePlay | GoldLife S1",
+        "clients": 0,
+        "svMaxclients": 120,
+        "server": "VMPServer-master SERVER v1.0.0.100305 win32",
+        "connectEndPoints": ["81.12.50.33:30120"],
+        "vars": {
+          "sv_projectName": "GoldLife S1 | [ESX Legacy]",
+          "sv_projectDesc": "در ه این سرور همیشه به روت بازه که دلت بخواد بجنی ضرر که نمیکنی",
+          "tags": "RP, GoldLife S1, FREE GANG +3, official, IRAN",
+          "Discord": "https://discord.gg/goldlife"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    },
+    {
+      "code": "5.42.217.77:30130",
+      "name": "XCity Multigame",
+      "boost": 0,
+      "info": {
+        "id": "xcity",
+        "hostname": "^8XCity Multigame",
+        "gametype": "Multigame",
+        "clients": 13,
+        "svMaxclients": 300,
+        "server": "VMPServer-master SERVER v1.0.0.100201 win32",
+        "connectEndPoints": ["5.42.217.77:30130"],
+        "vars": {
+          "sv_projectName": "^8XCity Multigame",
+          "sv_projectDesc": "سرور فری روم ایکسیتینو، برترین سرور پی وی پی",
+          "tags": "xcity, pvp, pve, zombie, cnr, persian, iran, webcore"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    },
+    {
+      "code": "62.3.14.7:30120",
+      "name": "Medusa RP",
+      "boost": 20,
+      "info": {
+        "id": "hloocj",
+        "hostname": "Medusa Rp | Season 1 Coming Soon",
+        "gametype": "ESX Legacy",
+        "clients": 82,
+        "svMaxclients": 1000,
+        "server": "VMPServer-master SERVER v1.0.0.100201 win32",
+        "connectEndPoints": ["62.3.14.7:30120"],
+        "vars": {
+          "sv_projectName": "Medusa Rp | Season 1 Coming Soon",
+          "sv_projectDesc": "مشکل کانکت حل شد",
+          "tags": "medusa, medusacollective, medusa-collective, legacy, roleplay",
+          "sv_discord": "https://discord.gg/SyqgJApP7C"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "5.42.217.23:30120",
+      "name": "NARCO SYNDICATE",
+      "boost": 10,
+      "info": {
+        "id": "ykypih",
+        "hostname": "^6NARCO SYNDICATE",
+        "gametype": "ESX Legacy",
+        "clients": 20,
+        "svMaxclients": 299,
+        "server": "VMPServer-master SERVER v1.0.0.100305 win32",
+        "connectEndPoints": ["5.42.217.23:30120"],
+        "vars": {
+          "sv_projectName": "^6NARCO SYNDICATE",
+          "sv_projectDesc": "Every choice has consequences. Build relationships, earn respect, create enemies, and shape your story through serious roleplay.",
+          "tags": "iran,farsi,persian,irani,tehran,roleplay,rp,realisticrp,heavyrp,seriousrp"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "5.42.217.114:30120",
+      "name": "Void RolePlay",
+      "boost": 20,
+      "info": {
+        "id": "thzhom",
+        "hostname": "^6✦ ^5V^0oid ^5RolePlay ^6✦ ^7| ^1Serious RP ^7| ^3Active Staff ^7| ^2Unique Experience",
+        "gametype": "esx",
+        "clients": 17,
+        "svMaxclients": 90,
+        "server": "VMPServer-master SERVER v1.0.0.100301 win32",
+        "connectEndPoints": ["5.42.217.114:30120"],
+        "vars": {
+          "sv_projectName": "^6✦ ^5V^0oid ^5RolePlay ^6✦ ^7| شهری آروق با شهرنداش آروق",
+          "sv_projectDesc": "سیزن جدید با اسکریپته و مپهای و لباسهای جدید",
+          "tags": "LossantosThem,roleplay,esx,new scrip"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "62.3.14.25:30120",
+      "name": "شهستان میران",
+      "boost": 0,
+      "info": {
+        "id": "xu5kji",
+        "hostname": "شهستان میران",
+        "gametype": "",
+        "clients": 0,
+        "svMaxclients": 48,
+        "server": "VMPServer-master SERVER v1.0.0.100201 win32",
+        "connectEndPoints": ["62.3.14.25:30120"],
+        "vars": {
+          "sv_projectName": "شهستان میران",
+          "tags": "persian, rp, iranian"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    },
+    {
+      "code": "5.42.217.136:30120",
+      "name": "Heta RolePlay S4",
+      "boost": 10,
+      "info": {
+        "id": "uangih",
+        "hostname": "^2[I^7RA^1N] ^6Heta RolePlay S4 ^7| WELCOME TOO HETA SEASON 4",
+        "gametype": "Role Play",
+        "clients": 13,
+        "svMaxclients": 1000,
+        "server": "VMPServer-master SERVER v1.0.0.100306 win32",
+        "connectEndPoints": ["5.42.217.136:30120"],
+        "vars": {
+          "sv_projectName": "^6Heta RP S4(فایل کش سرور برای دانلود داخل دیسکور)",
+          "sv_projectDesc": "WELCOME TOO HETA SEASON 4",
+          "tags": "HETA,POLICE,ROLEPLAY,NOIRE,FARM,PERSIAN,JOB,UNIQUE CARS",
+          "discord": "https://discord.gg/RKqVe9PMn9"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "5.57.39.53:30120",
+      "name": "Parsi Line RP",
+      "boost": 1,
+      "info": {
+        "id": "9jlskb",
+        "hostname": "^3Parsi Line RP ^0 | S1",
+        "gametype": "RP",
+        "clients": 26,
+        "svMaxclients": 150,
+        "server": "VMPServer-master SERVER v1.0.0.100306 win32",
+        "connectEndPoints": ["5.57.39.53:30120"],
+        "vars": {
+          "sv_projectName": "^3Parsi Line RP ^0 | S1",
+          "sv_projectDesc": "گنگ رایگان برای +3 نفر + اسکریپت های خفن + مدیریت جدید + تلاش برای دوری از هرگونه تبعیض",
+          "tags": "iran, persian, farsi, iranize, heavyRP"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    },
+    {
+      "code": "5.42.217.154:30120",
+      "name": "NEXA Community",
+      "boost": 0,
+      "info": {
+        "id": "3b6ucb",
+        "hostname": "NEXA Community ( Open Beta )",
+        "gametype": "Role Play",
+        "clients": 12,
+        "svMaxclients": 100,
+        "server": "VMPServer-master SERVER v1.0.0.100201 win32",
+        "connectEndPoints": ["5.42.217.154:30120"],
+        "vars": {
+          "sv_projectName": "NEXA Community",
+          "sv_projectDesc": "Join Us On Discord : https://discord.gg/J6QpJsbup",
+          "tags": "QBCore, IRAN, HeavyRP, QB, qbcore"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    },
+    {
+      "code": "5.57.32.96:30120",
+      "name": "ZombieX - PvP",
+      "boost": 20,
+      "info": {
+        "id": "se1kxq",
+        "hostname": "ZombieX - PvP",
+        "gametype": "",
+        "clients": 41,
+        "svMaxclients": 90,
+        "server": "VMPServer-master SERVER v1.0.0.100201 win32",
+        "connectEndPoints": ["5.57.32.96:30120"],
+        "vars": {
+          "sv_projectName": "ZombieX - PvP",
+          "sv_projectDesc": "The first and best active survival server",
+          "tags": "zombie, survival, pve, pvp"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": true
+    },
+    {
+      "code": "212.80.8.55:30120",
+      "name": "Arcade Underground",
+      "boost": 2,
+      "info": {
+        "id": "epx33j",
+        "hostname": "Arcade",
+        "gametype": "",
+        "clients": 22,
+        "svMaxclients": 80,
+        "server": "VMPServer-master SERVER v1.0.0.100335 win32",
+        "connectEndPoints": ["212.80.8.55:30120"],
+        "vars": {
+          "sv_projectName": "Arcade Underground",
+          "sv_projectDesc": "Open Beta, Join us @ arcaderp.ir",
+          "tags": "RP, RolePlay, QB, Arcade, ARC"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    },
+    {
+      "code": "5.42.217.179:30120",
+      "name": "DonutRp",
+      "boost": 0,
+      "info": {
+        "id": "goguryeo",
+        "hostname": "DonutRp",
+        "gametype": "",
+        "clients": 7,
+        "svMaxclients": 100,
+        "server": "VMPServer-master SERVER v1.0.0.100305 win32",
+        "connectEndPoints": ["5.42.217.179:30120"],
+        "vars": {
+          "sv_projectName": "DonutRp Beta Need help!",
+          "sv_projectDesc": "از تکرار و یکنواختی شهر های دیگه خسته شدی؟ دونات آرپ بیا کمک بده جار نمیزنه!",
+          "tags": "default, deployer, qbox"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    },
+    {
+      "code": "5.42.223.56:30120",
+      "name": "VARLLY",
+      "boost": 0,
+      "info": {
+        "id": "ou5h2f",
+        "hostname": "^3[^6VARLLY™^3] Luxury Life Simulator",
+        "gametype": "Freeroam",
+        "clients": 0,
+        "svMaxclients": 77,
+        "server": "VMPServer-master SERVER v1.0.0.100335 win32",
+        "connectEndPoints": ["5.42.223.56:30120"],
+        "vars": {
+          "sv_projectName": "^3 VARLLY",
+          "sv_projectDesc": "vod ghat va ghat az tarigh akant astim",
+          "tags": "QB-CORE, QBOX, NO PAY-TO-WIN, DYNAMIC ECONOMY, VALLAR SYSTEM"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    },
+    {
+      "code": "5.57.37.241:30120",
+      "name": "Rolex RP",
+      "boost": 17,
+      "info": {
+        "id": "aktudr",
+        "hostname": "Rolex RP",
+        "gametype": "ESX Legacy",
+        "clients": 7,
+        "svMaxclients": 120,
+        "server": "VMPServer-master SERVER v1.0.0.100305 win32",
+        "connectEndPoints": ["5.57.37.241:30120"],
+        "vars": {
+          "sv_projectName": "Rolex RP",
+          "sv_projectDesc": "Realistic Roleplay و بازی پول واقعی بدست بیار",
+          "tags": "gang,artesh,police,sheriff,doj,fbi,car vip,realistic"
+        }
+      },
+      "vpn_exclude_ip": null,
+      "country": "IR",
+      "featured": false
+    }
+  ]
+}
